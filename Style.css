@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat:wght@600&display=swap');
+
+body {
+    text-align: center;
+}
+
+h1{
+    font-family: Monoton;
+    font-size: 70px;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    height: 20px;
+    width: 20px;
+}
